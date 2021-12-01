@@ -3,7 +3,7 @@ import React from 'react'
 import './App.css'
 
 import Header from './components/top/Header'
-import Footer from './components/Footer/Footer'
+import Footer from './components/bottom/Footer'
 import Main from './components/Main/Main'
 
 function App() {
