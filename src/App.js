@@ -4,7 +4,7 @@ import './App.css'
 
 import Header from './components/top/Header'
 import Footer from './components/bottom/Footer'
-import Main from './components/Main/Main'
+import Main from './components/center/Main'
 
 function App() {
   return (
